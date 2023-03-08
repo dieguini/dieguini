@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Jalasoft
 - 🌱 I’m currently learning Golang
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on [Any repo that needs my skills and has interesting ideas]
 - 🤔 I’m looking for help with DevOps Content
 - 💬 Ask me about DevOps, Infrastructure, Security, Networking, Development
 - 📫 How to reach me: https://bo.linkedin.com/in/diego-jauregui-salvatierra
