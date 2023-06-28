@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Jalasoft
-- 🌱 I’m currently learning Golang
+- 🔭 I’m currently working on Unosquare (SRE/DevOps)
+- 🌱 I’m currently learning Kubernetes
 - 👯 I’m looking to collaborate on [Any repo that needs my skills and has interesting ideas]
 - 🤔 I’m looking for help with DevOps Content
 - 💬 Ask me about DevOps, Infrastructure, Security, Networking, Development
